@@ -1,0 +1,10 @@
+Django>=3.2.3,<3.3
+psycopg2>=2.8.6,<2.9
+uWSGI>=2.0.19.1,<2.1
+flake8>=3.9.2,<3.10
+django-mptt>=0.12.0,<0.13.0
+django-allauth>=0.47.0,<0.48.0
+python-dateutil>=2.8.2,<2.9
+google-api-python-client>=2.34.0,<2.35.0
+google-auth-httplib2>=0.1.0,<0.2.0
+google-auth-oauthlib>=0.4.6,<0.5.0
